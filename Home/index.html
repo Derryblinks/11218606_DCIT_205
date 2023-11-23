@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+<!--
+	Author Derryblinks ID:11218606
+	Responsive landing page
+	Welcome to the Department of computer science 
+-->
+<html>
+	<head>
+		<title>CS Department</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="icon" href="pictures/DCS.png" type="jgp">
+
+		
+		<!--simple basic inline style for the naviagation section in the headeer-->
+
+		<style>
+		
+		  
+			.navigations a{
+				color: rgb(0, 162, 255);
+			    text-shadow:1px 1px 1px black;
+				padding: 10px;
+				margin-bottom:40px;
+				margin-top: -10px;
+				display:inline-block;
+				position: center;
+				font-size: 20px bold;
+				font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			}
+			.navigations a:hover{
+				text-decoration:underline white;
+				color:white;
+			}
+			
+			.navigations a:active{
+				color:azure;
+				text-decoration: none;
+				opacity:0.5;
+			}
+
+
+		</style>
+	</head>
+	<body class="is-preload">
+		<div id="wrapper">
+			<div id="bg"></div>
+			<div id="overlay"></div>
+			<div id="main">
+
+				<!-- Header -->
+					<header id="header">
+						<img src="pictures/cs logo.png" alt="Department of Computer Science logo" height="50px">
+						<nav class="navigations">
+
+							<a href="http://127.0.0.1:5500/Home/index.html" target="_blank" title="Home">Home|</a>
+					<a href="http://127.0.0.1:5500/Catalog%20and%20Library/About%20Us.html"	target="_blank" title="About">About|</a>
+					<a href="http://127.0.0.1:5500/Events/index.html" target="_blank" title="Events">Events|</a>
+					<a href="#home">Contact|</a>
+					<a href="#home">Catalog|</a>
+					<a href="#home">Resources|</a>
+					<a href="http://127.0.0.1:5500/Catalog%20and%20Library/Library.html" target="_blank" title="Library">Library|</a>
+					<a href="http://127.0.0.1:5500/Research%20and%20learn/Staff.html" target="_blank" title="Staff">Staff|</a>
+					<a href="http://127.0.0.1:5500/Catalog%20and%20Library/Short%20courses.html" target="_blank" title="Short Courses">Short courses|</a>
+					<a href="http://127.0.0.1:5500/Catalog%20and%20Library/Newspage.html" target="_blank" title="News">News</a>
+						</nav>
+
+						<h1>Welcome to the Department of Computer Science</h1>
+						<p>University of Ghana &nbsp;&bull;&nbsp; Computer Science &nbsp;&bull;&nbsp; School of physical and mathematical Sciences</p>
+						
+						<p>Your gateway to world class computer science education</p>
+
+						<nav>
+							<ul>
+								<li><a href="#" class="icon brands fa-twitter" style="color:rgb(0, 162, 255)";><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon brands fa-facebook-f" style="color:rgb(0, 162, 255)";><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands fa-dribbble" style="color:rgb(0, 162, 255)";><span class="label">Dribbble</span></a></li>
+								<li><a href="#" class="icon brands fa-github" style="color:rgb(0, 162, 255)";><span class="label">Github</span></a></li>
+								<li><a href="#" class="icon solid fa-envelope" style="color:rgb(0, 162, 255)";><span class="label">Email</span></a></li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<span class="copyright">&copy; Department of Computer science: <a href="#">Home</a>.</span>
+					</footer>
+
+			</div>
+		</div>
+		<script>
+			window.onload = function() { document.body.classList.remove('is-preload'); }
+			window.ontouchmove = function() { return false; }
+			window.onorientationchange = function() { document.body.scrollTop = 0; }
+		</script>
+	</body>
+</html>
