@@ -31,6 +31,6 @@ Below are the various imgaes of the sections of the Deparment
 ![News Letter](<Screenshots/Screenshot (58).png>)
 ![News](<Screenshots/Screenshot (59).png>)
 
-Throught the development of this Website, i have gained valuable skills and experience including the development of responsive web design, improve proficiency in front-end frame works.
+Through out the development of this Website, i have gained valuable skills and experience including the development of responsive web design, improve proficiency in front-end frame works.
 
 In conclusion, this project has been challeging and a rewarding experience, allowing me to apply theoretical knowledge in a practical setting.
