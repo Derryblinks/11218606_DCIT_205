@@ -1,19 +1,23 @@
 # DCIT_205_IA
-Name: Derrick Boateng 
-ID: 11218606
 
-                                 INTRODUCTION TO THE WEBSITE 
+<h1> Author information</h1>
+<h4> <strong>Name: </strong> Derrick Boateng <br>
+ <strong>ID: 11218606 </strong>
+</h4>
+
+                         <h1>Introduction to the Department of Computer Science Website</h1>
 Welcome to the <a href="http://127.0.0.1:5500/11218606_DCIT_205/Home/index.html">Computer Science Website!.</a>This full 10 pages website is purposely built and dedicated to the computer science department at University of Ghana, highlighting the various sections of the department including the staff, Our motive, Library ,Resources, contact, about and other major sections. This website is to guide students (learners), workers and everyone to know more and leverage themselves in the Computer Science department by knowing the various heads and staff and motive of the department.
 
-                                   SETUP INSTRUCTIONS 
-Please follow the detailed instructions below to clone and set up the project locally
+                                   <h1> HOW TO CLONE AND SET UP THE PROJECT </h1> 
+ <p>Please follow the detailed instructions below to clone and set up the project locally</p>
+<ul>
+<li> <p>**To clone the Repository use : git clone https://github.com/Derryblinks/11218606_DCIT_205.git </p></li>
+<li><p>**To navigate to Project Directory use: cd your-repo </p></li>
+<li><p>**To install Dependencies use : npm install </p></li>
+<li><p>**To run the application use : npm start </p></li>
+</ul>
 
-**To clone the Repository use : git clone https://github.com/Derryblinks/11218606_DCIT_205.git
-**To navigate to Project Directory use: cd your-repo
-**To install Dependencies use : npm install
-**To run the application use : npm start
-
-Below are the various imgaes of the sections of the Deparment 
+<h2>Below are the various imgaes of the sections of the Deparment </h2>
 
 ![HomePage](<Screenshots/Screenshot (44).png>)
 ![AboutPage](<Screenshots/Screenshot (45).png>)
@@ -31,6 +35,9 @@ Below are the various imgaes of the sections of the Deparment
 ![News Letter](<Screenshots/Screenshot (58).png>)
 ![News](<Screenshots/Screenshot (59).png>)
 
-Through out the development of this Website, i have gained valuable skills and experience including the development of responsive web design, improve proficiency in front-end frame works.
+<h2>Lessons learnt from the Project </h2>
+<p>Through out the development of this Website, i have gained valuable skills and experience including the development of responsive web design, improve proficiency in front-end frame works and understanding how to set up a website from the basics to a more advanced one. <br>
+I have also learned effectively how to navigate and leverage the git version control system and anticipate in collaborative work. </p>
 
-In conclusion, this project has been challeging and a rewarding experience, allowing me to apply theoretical knowledge in a practical setting.
+<h2> Conclusion</h2>
+<p>In conclusion, this project has been challeging and a rewarding experience, allowing me to apply theoretical knowledge in a hands-on practical.</p>
